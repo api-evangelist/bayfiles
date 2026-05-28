@@ -1,0 +1,32 @@
+aid: bayfiles
+name: BayFiles
+description: "Upload and share your files"
+url: https://bayfiles.com/docs/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cloud Storage & File Sharing"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cloud Storage And File Sharing
+  - Public APIs
+apis:
+  - name: BayFiles
+    description: "Upload and share your files"
+    humanURL: https://bayfiles.com/docs/api
+    baseURL: https://bayfiles.com/docs/api
+    tags:
+      - Cloud Storage And File Sharing
+    properties:
+      - type: Documentation
+        url: https://bayfiles.com/docs/api
+common:
+  - type: Website
+    url: https://bayfiles.com/docs/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
