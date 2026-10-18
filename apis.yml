@@ -40,7 +40,8 @@ apis:
     description: "Upload and share your files"
     humanURL: https://bayfiles.com/docs/api
     baseURL: https://bayfiles.com/docs/api
-    tags:
+    tags: []
+    tags_raw:
       - Cloud Storage And File Sharing
     properties:
       - type: Documentation
